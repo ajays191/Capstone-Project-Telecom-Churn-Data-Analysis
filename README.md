@@ -1,6 +1,8 @@
 # Capstone-Project-Telecom-Churn-Data-Analysis
 
-Define Your Business Objective?
+***Business Objective***
+
+ 
 Reduce Customer Churn: The primary objective is to decrease customer churn rates for Orang S.A. by identifying the key factors contributing to cancellations and implementing strategies to improve customer retention. The goal is to retain a higher percentage of customers, ensuring sustainable revenue growth and market stability.
 
 Enhance Customer Satisfaction: A key business objective is to enhance overall customer satisfaction by addressing the underlying reasons for customer churn. By understanding customer needs, preferences, and pain points, Orang S.A. can tailor its services, plans, and customer support to meet and exceed customer expectations, leading to increased loyalty and customer advocacy.
